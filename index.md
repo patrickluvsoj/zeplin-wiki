@@ -3,7 +3,13 @@ We outline all the best practices and tips we've learned from the best teams, an
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<br>
+
 ![zeplin](sample-image.png)
+
+<br>
+<br>
+
 
 ## Getting Access to Zeplin
 
@@ -11,6 +17,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Create user account: https://app.zeplin.io/register 
 - Download Zeplin macOS app: https://zpl.io/download-mac
 - Access Zeplin Web app: https://app.zeplin.io
+
+<br>
+<br>
 
 
 ## Project Naming Convention
@@ -27,19 +36,16 @@ ex. Airbnb Experience-iOS-Check-out
 ![zeplin](project-naming.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ```markdown
 Syntax highlighted code block
