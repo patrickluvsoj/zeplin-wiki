@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/patrickluvsoj/blog/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![zeplin](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiuloXU76DhAhWCAHwKHUdwAbQQjRx6BAgBEAU&url=https%3A%2F%2Fzeplin.io%2F&psig=AOvVaw2M6lP1OQJ0HX267Xe9THcp&ust=1553726300231710)
+![zeplin](zeplin sample image.png)
 
 ### Markdown
 
