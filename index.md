@@ -1,14 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/patrickluvsoj/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to the Zeplin Onboarding Workbook!
+We outline all the best practices and tips we've learned from the best teams, and share them here. You can copy/fork this repository to create a custom onboarding site for your team! Since it's in markdown, you can also simply copy and paste the content to other Wiki sites and it will work just fine too.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ![zeplin](sample-image.png)
 
-### Markdown
+## Getting Access to Zeplin
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Send request to: [fill in email], [fill in email]
+- Create user account: https://app.zeplin.io/register 
+- Download Zeplin macOS app: https://zpl.io/download-mac
+- Access Zeplin Web app: https://app.zeplin.io
+
+
+## Project Naming Convention
+
+Once you start using Zeplin, it’s common to have hundreds of project. Establishing a naming convention enhances visibility of projects and discoverability.
+
+*Naming:* use vocabulary that’s familiar to your team like team, group, platform, project, feature, epic name.
+ex. Airbnb Experience-iOS-Check-out
+
+*Thumbnail:* add a thumbnail to your project that makes it easy to distinguish platform type (Web, iOS, Android) or team.
+
+### ex. Some teams color code thumbnails like this 👇
+
+![zeplin](project-naming.png)
+
 
 ```markdown
 Syntax highlighted code block
