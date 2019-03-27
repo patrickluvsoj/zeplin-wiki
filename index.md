@@ -1,3 +1,5 @@
+![zeplin](zep256.png)
+
 # Welcome to the Zeplin Onboarding Workbook!
 We outline all the best practices and tips we've learned from the best teams, and share them here. You can copy/fork this repository to create a custom onboarding site for your team! Since it's in markdown, you can also simply copy and paste the content to other Wiki sites and it will work just fine too.
 
