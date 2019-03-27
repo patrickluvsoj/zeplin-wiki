@@ -60,7 +60,7 @@ Having a standard and clear way to share screens reduce unnecessary back and for
 ![zeplin](slack.png)
 
 Notification settings: on the Zeplin web app you can filter notifications. We recommend to enable only key notification types to prevent noise.
-![zeplin](slack-settings.png)
+![zeplin](slack-setting.png)
 
 <br>
 <br>
