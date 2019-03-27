@@ -51,6 +51,9 @@ Having a standard and clear way to share screens reduce unnecessary back and for
 
 ![zeplin](sharing.png)
 
+<br>
+<br>
+
 ## Slack Integration
 
 #channel: create a channel in Slack and connect it to your specific Zeplin project. Channels can be based on features, team etc
@@ -61,19 +64,6 @@ Notification settings: on the Zeplin web app you can filter notifications. We re
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-```markdown samples
-Syntax highlighted code block
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
