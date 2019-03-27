@@ -56,10 +56,10 @@ Having a standard and clear way to share screens reduce unnecessary back and for
 
 ## Slack Integration
 
-#channel: create a channel in Slack and connect it to your specific Zeplin project. Channels can be based on features, team etc
+*#channel:* create a channel in Slack and connect it to your specific Zeplin project. Channels can be based on features, team etc
 ![zeplin](slack.png)
 
-Notification settings: on the Zeplin web app you can filter notifications. We recommend to enable only key notification types to prevent noise.
+N*otification settings:* on the Zeplin web app you can filter notifications. We recommend to enable only key notification types to prevent noise.
 ![zeplin](slack-setting.png)
 
 <br>
