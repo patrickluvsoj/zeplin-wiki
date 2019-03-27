@@ -1,7 +1,11 @@
-## Welcome to the Zeplin Onboarding Workbook!
+# Welcome to the Zeplin Onboarding Workbook!
 We outline all the best practices and tips we've learned from the best teams, and share them here. You can copy/fork this repository to create a custom onboarding site for your team! Since it's in markdown, you can also simply copy and paste the content to other Wiki sites and it will work just fine too.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Tips for Using This Template
+
+*Purpose:* we list out best practices that we’ve seen teams adopt to effectively collaborate. It’s meant to help standardize your team’s workflow and facilitate onboarding team members.
+*Customize:* this doc is a template and it’s meant to be customized based on your unique team setup and workflow. Feel free to take out any slides that are not applicable to your team.
+*Engineers:* we recommend teams to review this with at least one engineering lead to agree on workflows and best practices you document on this onboarding doc.
 
 <br>
 
@@ -35,6 +39,25 @@ ex. Airbnb Experience-iOS-Check-out
 
 ![zeplin](project-naming.png)
 
+<br>
+<br>
+
+## Sharing Projects
+Having a standard and clear way to share screens reduce unnecessary back and forth or any chances of miscommunication.
+
+*Links:* use links to a specific set of screens using tags or sections
+
+*Sharing:* choose a standard channel to share links like Slack, Github or Jira
+
+![zeplin](sharing.png)
+
+## Slack Integration
+
+#channel: create a channel in Slack and connect it to your specific Zeplin project. Channels can be based on features, team etc
+![zeplin](slack.png)
+
+Notification settings: on the Zeplin web app you can filter notifications. We recommend to enable only key notification types to prevent noise.
+![zeplin](slack-settings.png)
 
 <br>
 <br>
@@ -43,22 +66,9 @@ ex. Airbnb Experience-iOS-Check-out
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
-```markdown
+```markdown samples
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -67,10 +77,5 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
+*Jekyll Themes*
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patrickluvsoj/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
