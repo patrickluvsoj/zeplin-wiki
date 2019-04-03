@@ -1,20 +1,3 @@
-
-
-
-## Tips for Using This Template
-
-*Purpose:* we list out best practices that we’ve seen teams adopt to effectively collaborate. It’s meant to help standardize your team’s workflow and facilitate onboarding team members.
-*Customize:* this doc is a template and it’s meant to be customized based on your unique team setup and workflow. Feel free to take out any slides that are not applicable to your team.
-*Engineers:* we recommend teams to review this with at least one engineering lead to agree on workflows and best practices you document on this onboarding doc.
-
-<br>
-
-![zeplin](sample-image.png)
-
-<br>
-<br>
-
-
 ## Getting Access to Zeplin
 
 - Send request to: [fill in email], [fill in email]
