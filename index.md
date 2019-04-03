@@ -1,20 +1,20 @@
 ## Contents
 
-### Organize 🧹
-Naming Projects
+**Organize 🧹**<br>
+Naming Projects<br>
 Project Structure
 
-### Collaborate 🤝
-Sharing Projects
-Notes
-Version History
+**Collaborate 🤝**<br>
+Sharing Projects<br>
+Notes<br>
+Version History<br>
 Slack Integration
 
-### Develop 🖥 
-Assets
-Pop-out
-Components
-Extensions
+**Develop 🖥**<br>
+Assets<br>
+Pop-out<br>
+Components<br>
+Extensions<br>
 Prepare for hand-off
 
 <br>
@@ -22,7 +22,7 @@ Prepare for hand-off
 
 ## Getting Access to Zeplin
 
-- Send request to: [fill in email], [fill in email]
+- Send request to: [fill in email], [fill in email] #TODO Mark it with something visible
 - Create user account: https://app.zeplin.io/register 
 - Download Zeplin macOS app: https://zpl.io/download-mac
 - Access Zeplin Web app: https://app.zeplin.io
@@ -109,7 +109,12 @@ Having a standard and clear way to share screens reduce unnecessary back and for
 <br>
 
 
-
+Colors: use it to indicate the type of note you are leaving or the status of a notes:
+ex.)
+Green = designer adding details like describing animations
+Red = developer roadblock or requesting changes to design
+Blue = comments from PM
+Resolve: resolve comments to reduce clutter
 
 ## Slack Integration
 
