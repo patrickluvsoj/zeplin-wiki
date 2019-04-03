@@ -1,21 +1,21 @@
 ## Contents
 
 ### Organize 🧹
-- Naming Projects
-- Project Structure
+Naming Projects
+Project Structure
 
 ### Collaborate 🤝
-- Sharing Projects
-- Notes
-- Version History
-- Slack Integration
+Sharing Projects
+Notes
+Version History
+Slack Integration
 
 ### Develop 🖥 
-- Assets
-- Pop-out
-- Components
-- Extensions
-- Prepare for hand-off
+Assets
+Pop-out
+Components
+Extensions
+Prepare for hand-off
 
 <br>
 <br>
@@ -69,6 +69,7 @@ Having a standard project structure helps other team members effectively navigat
 **Section Descriptions:** brief description of each section.
 **Screen Tags:** group screens by design stage, team names, date, version or screen type like Empty State or Pop-up
 
+<br>
 
 ### You Content
 Project Description: At [your company] we will use Project Descriptions to describe ________________________________________________________________________________________
@@ -83,8 +84,12 @@ Example Sections Description: __________________________________________________
 
 **Screen Tags:** At [your company] we will group screens with tags by ______________________________________________________________________________________
 
+<br>
+<br>
 
 ## Sharing Projects
+
+### Guide
 Having a standard and clear way to share screens reduce unnecessary back and forth or any chances of miscommunication.
 
 *Links:* use links to a specific set of screens using tags or sections
@@ -93,10 +98,15 @@ Having a standard and clear way to share screens reduce unnecessary back and for
 
 ![zeplin](/images/sharing.png)
 
-<br>
-<br>
+
+### Your Content
+**Links:** we will group and share links using _______________________________________________________________________________________________________
+
+**Sharing:** we will share our links in _______________________________________________________________________________________________________
 
 
+<br>
+<br>
 
 
 
