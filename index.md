@@ -1,3 +1,25 @@
+## Contents
+
+### Organize 🧹
+- Naming Projects
+- Project Structure
+
+### Collaborate 🤝
+- Sharing Projects
+- Notes
+- Version History
+- Slack Integration
+
+### Develop 🖥 
+- Assets
+- Pop-out
+- Components
+- Extensions
+- Prepare for hand-off
+
+<br>
+<br>
+
 ## Getting Access to Zeplin
 
 - Send request to: [fill in email], [fill in email]
