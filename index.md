@@ -33,6 +33,7 @@
 
 ## Project Naming Convention
 
+### Guide
 Once you start using Zeplin, it’s common to have hundreds of project. Establishing a naming convention enhances visibility of projects and discoverability.
 
 *Naming:* use vocabulary that’s familiar to your team like team, group, platform, project, feature, epic name.
@@ -40,12 +41,23 @@ ex. Airbnb Experience-iOS-Check-out
 
 *Thumbnail:* add a thumbnail to your project that makes it easy to distinguish platform type (Web, iOS, Android) or team.
 
-### ex. Some teams color code thumbnails like this 👇
+**ex. Some teams color code thumbnails like this 👇**
+![zeplin](/images/project-naming.png)
 
-![zeplin](project-naming.png)
+
+### Your Content
+**Naming Convention to be used at [your company] name:** ___________________________________
+
+Example Project Name: ___________________________________________________
+
+**Thumbnail:** add a thumbnail to your project that makes it easy to ____________________________
 
 <br>
 <br>
+
+
+
+
 
 ## Sharing Projects
 Having a standard and clear way to share screens reduce unnecessary back and forth or any chances of miscommunication.
@@ -58,6 +70,11 @@ Having a standard and clear way to share screens reduce unnecessary back and for
 
 <br>
 <br>
+
+
+
+
+
 
 ## Slack Integration
 
