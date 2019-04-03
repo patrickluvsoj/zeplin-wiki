@@ -15,5 +15,5 @@ We outline all the best practices and tips we've learned from the best teams, an
 
 **More advanced:** for those familiar with Github you can copy/fork this repo and customize the content by editing this file. You can then get the latest updates from Zeplin.
 
-Once you coypy/fork the repo, you can also laod this as a custom website. You can simply type in the following to your browser.... https://[fill_in_your github username].github.io/zeplin-wiki 🧙‍♂️
+Once you copy/fork the repo, you can also laod this as a custom website. You can simply type in the following to your browser.... https://[fill_in_your github username].github.io/zeplin-wiki 🧙‍♂️
 
