@@ -52,11 +52,36 @@ Example Project Name: ___________________________________________________
 
 **Thumbnail:** add a thumbnail to your project that makes it easy to ____________________________
 
+                                    Insert thumbnail image
+
 <br>
 <br>
 
 
 
+## Project Description: At [your company] we will use Project Descriptions to describe 
+
+### Guide
+Having a standard project structure helps other team members effectively navigate through your project especially your developer counterpart.
+
+**Project Description:** add links to documentation and relevant stakeholders.
+**Sections:** group screens by user flow, features or epics.
+**Section Descriptions:** brief description of each section.
+**Screen Tags:** group screens by design stage, team names, date, version or screen type like Empty State or Pop-up
+
+
+### You Content
+Project Description: At [your company] we will use Project Descriptions to describe ________________________________________________________________________________________
+
+Example Project Description: _________________________________________________________
+
+**Sections:** At [your company] we will group screens into Section by ________________________________________________________________________________________
+
+**Sections Description:** At [your company] we will use Section Description to describe ________________________________________________________________________________________ 
+
+Example Sections Description: _______________________________________________________
+
+**Screen Tags:** At [your company] we will group screens with tags by ______________________________________________________________________________________
 
 
 ## Sharing Projects
@@ -66,7 +91,7 @@ Having a standard and clear way to share screens reduce unnecessary back and for
 
 *Sharing:* choose a standard channel to share links like Slack, Github or Jira
 
-![zeplin](sharing.png)
+![zeplin](/images/sharing.png)
 
 <br>
 <br>
@@ -79,10 +104,10 @@ Having a standard and clear way to share screens reduce unnecessary back and for
 ## Slack Integration
 
 *#channel:* create a channel in Slack and connect it to your specific Zeplin project. Channels can be based on features, team etc
-![zeplin](slack.png)
+![zeplin](/images/slack.png)
 
 *Notification settings:* on the Zeplin web app you can filter notifications. We recommend to enable only key notification types to prevent noise.
-![zeplin](slack-setting.png)
+![zeplin](/images/slack-setting.png)
 
 <br>
 <br>
