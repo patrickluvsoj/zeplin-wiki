@@ -8,6 +8,8 @@ We outline all the best practices and tips we've learned from the best teams, an
 
 **Engineers:** we recommend teams to review this with at least one engineering lead to agree on workflows and best practices you document on this onboarding doc. Close collaboration with developers is key! 🔑
 
+<br>
+
 ## Instructions on how to use
 **Simple:** *index.md* is the file where all the content lives! You can simply copy paste this to your own Wiki like Confluence. 
 
