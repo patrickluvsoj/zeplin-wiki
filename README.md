@@ -11,7 +11,10 @@ We outline all the best practices and tips we've learned from the best teams, an
 <br>
 
 ## Instructions on how to use
+
 **Simple:** *index.md* is the file where all the content lives! You can simply copy paste this to your own Wiki like Confluence. 
+
+
 
 **More advanced:** for those familiar with Github you can copy/fork this repo and customize the content by editing this file. You can then get the latest updates from Zeplin.
 
